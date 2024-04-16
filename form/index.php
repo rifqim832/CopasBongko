@@ -185,7 +185,7 @@ if(isset($_POST['proses'])){
         <td><?php echo $jurusan1?></td>
     </tr>
     <tr>
-        <td>Pilihan 1</td>
+        <td>Pilihan 2</td>
         <td>:</td>
         <td><?php echo $jurusan2?></td>
     </tr>
